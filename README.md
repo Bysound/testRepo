@@ -1,4 +1,5 @@
 #test Repo
 new text
-some more text
-fix2 changes
+branch fix3 text
+
+> > > > > > > bba7c5637d0cd6d680b0380309fc3ff2e4039113
